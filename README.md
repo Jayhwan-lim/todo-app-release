@@ -32,11 +32,13 @@ It allows users to add and delete tasks, and it stores data in the browser using
 That’s it – no installation required!
 
 📄 User Stories
+
 As a user, I want to add tasks to the list.
 As a user, I want to delete tasks when they're completed.
 As a user, I want my tasks to stay saved even after refreshing or closing the browser.
 
 🚀 Deployment
+
 This app is deployed using Vercel.
 Simply connected the GitHub repo and deployed via their interface.
 
