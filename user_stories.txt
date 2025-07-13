@@ -1,0 +1,5 @@
+User Stories:
+
+1. As a user, I want to add tasks to my to-do list so I can remember what I need to do.
+2. As a user, I want to delete tasks when they are completed to keep my list clean.
+3. As a user, I want my tasks to be saved even after I close and reopen the browser.

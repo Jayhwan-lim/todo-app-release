@@ -1,0 +1,8 @@
+Deployment Steps:
+
+1. Created a GitHub repository named "todo-app-release".
+2. Uploaded the project files, including index.html, to the repository using GitHub Desktop.
+3. Logged in to Vercel (https://vercel.com) using my GitHub account.
+4. Imported the "todo-app-release" GitHub repository into Vercel.
+5. Vercel automatically deployed the app.
+6. Copied the public deployment URL from Vercel (e.g., https://todo-app-release.vercel.app/).
