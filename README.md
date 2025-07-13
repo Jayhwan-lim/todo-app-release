@@ -26,7 +26,7 @@ It allows users to add and delete tasks, and it stores data in the browser using
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jayhwan-lim/todo-app_release.git
+   git clone https://github.com/Jayhwan-lim/todo-app-release.git
 
 2. Open the folder and double-click on index.html
 That’s it – no installation required!
